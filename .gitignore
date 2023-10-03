@@ -1,0 +1,14 @@
+# Ignore Cypress generated files and folders
+/cypress/videos/
+/cypress/screenshots/
+# /cypress/fixtures/
+/cypress/results/
+/cypress/plugins/screenshots/
+/cypress/reports/
+
+# Ignore Node.js modules (if you're using npm)
+/node_modules/
+
+# Ignore log files
+*.log
+
