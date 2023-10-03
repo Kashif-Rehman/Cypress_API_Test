@@ -1,7 +1,7 @@
 # Ignore Cypress generated files and folders
 /cypress/videos/
 /cypress/screenshots/
-# /cypress/fixtures/
+# /cypress/fixtures/git commit -m "Initial commit"
 /cypress/results/
 /cypress/plugins/screenshots/
 /cypress/reports/
